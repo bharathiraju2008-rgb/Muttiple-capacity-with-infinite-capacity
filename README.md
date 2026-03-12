@@ -20,6 +20,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Experiment:
 
 
+![WhatsApp Image 2026-03-12 at 9 20 35 PM](https://github.com/user-attachments/assets/b56be3ec-80d6-4d85-af08-63b55afcb35f)
+
 ## Program
 
 ~~~
